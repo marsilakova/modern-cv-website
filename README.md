@@ -13,6 +13,8 @@ En stilren, modern och responsiv personlig CV-webbplats skapad för att presente
 • Responsiv design: Anpassar sig sömlöst till dator, surfplatta och mobiltelefon med hjälp av CSS Flexbox och Grid.
 • Mörkt / Ljust läge (Dark / Light Mode): Interaktiv temaväxlare byggd med JavaScript.
 • Ladda ner CV: Inbyggd funktion för att skriva ut eller spara sidan som PDF via knappen Download CV.
+* **SEO-optimering:** Optimerad med semantisk HTML5, meta-taggar (`description`, `keywords`) och Open Graph för bättre synlighet i sökmotorer och vid delning på LinkedIn.
+
 
 ## 3. Använda teknologier
 • HTML5: Semantisk struktur och tillgänglig kod.
